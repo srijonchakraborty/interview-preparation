@@ -1,0 +1,60 @@
+{
+  "topics": [
+    {
+      "id": "css",
+      "title": "CSS",
+      "file": "content/css.md",
+      "summary": "Cascade, layout, and the modern CSS features interviews actually ask about.",
+      "order": ["Fundamentals", "Layout", "Modern"]
+    },
+    {
+      "id": "javascript",
+      "title": "JavaScript",
+      "file": "content/javascript.md",
+      "summary": "Language behavior from ES6 through ES2024, including the questions that punish a vague answer.",
+      "order": ["ES6", "ES2017", "ES2020", "ES2022", "ES2023", "ES2024"]
+    },
+    {
+      "id": "typescript",
+      "title": "TypeScript",
+      "file": "content/typescript.md",
+      "summary": "The type system, then the 4.9, 5.0, and 5.2 features worth naming by version.",
+      "order": ["Core", "4.9", "5.0", "5.2"]
+    },
+    {
+      "id": "dotnet",
+      "title": ".NET",
+      "file": "content/dotnet.md",
+      "summary": "Runtime and C# questions, with .NET 6 and .NET 10 called out where the version matters.",
+      "order": ["Core", ".NET 6", ".NET 10"]
+    },
+    {
+      "id": "angular",
+      "title": "Angular",
+      "file": "content/angular.md",
+      "summary": "Standalone, signals, and forms, pinned to the version that introduced or stabilized them.",
+      "order": ["Core", "v14", "v15", "v16", "v17", "v20", "v22"]
+    },
+    {
+      "id": "ai",
+      "title": "AI",
+      "file": "content/ai.md",
+      "summary": "Tokens, sampling, embeddings, and how to talk about accuracy without folklore.",
+      "order": ["Core"]
+    },
+    {
+      "id": "rag",
+      "title": "RAG",
+      "file": "content/rag.md",
+      "summary": "Retrieval, chunking, hybrid search, and how to debug a wrong answer.",
+      "order": ["Core"]
+    },
+    {
+      "id": "foundry",
+      "title": "Azure Foundry",
+      "file": "content/foundry.md",
+      "summary": "Microsoft Foundry, formerly Azure AI Foundry: resources, models, agents, and controls.",
+      "order": ["Core"]
+    }
+  ]
+}
